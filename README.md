@@ -1,4 +1,7 @@
 # test
-this is a test md.
+<<<<<<< HEAD
+this is a test md~~
+
+## one
 
 ## two
